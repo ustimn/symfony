@@ -1,0 +1,11 @@
+{
+    "name": "ustim/symfony",
+    "authors": [
+        {
+            "name": "Nikolay Ustymenko",
+            "email": "nikolay.ustymenko@sunsoft.pro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
